@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Charles N 
 ### 🚀 Aspiring Machine Learning Engineer  
 
 - 🔭 I’m currently working on: [Project/learning goal]  
