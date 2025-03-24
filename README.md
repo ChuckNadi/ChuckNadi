@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Charles N 
-### 🚀 Aspiring Machine Learning Engineer  
+### 🚀 Advanced System Engineer - Aspiring Machine Learning Engineer  
 
 - 🔭 I’m currently working on: [Project/learning goal]  
 - 🌱 I’m currently learning: [ML framework, cloud tools, etc.]  
